@@ -9,7 +9,7 @@ Then run
 ./test_ref
 ```
 which will report max absolute and relative error for test cases.
-In addition, Claude has generously included an option to generate the  text file, if so desired:
+In addition, Claude has generously included an option to generate a text file of test results, if so desired:
 ```
 ./test_ref --dump log.txt
 ```
